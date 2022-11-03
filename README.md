@@ -1,6 +1,5 @@
 # Stealthburner with LGX-Lite and SB2040
 
 <p align="center">
-  <br/>!(/Image/Loghi_Masp_H_MS.png)<br/>
+  <img src="/Image/Loghi_Masp_H_MS.png">
 </p>
-!(/Image/Loghi_Masp_H_MS.png)
