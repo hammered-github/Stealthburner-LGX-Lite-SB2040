@@ -6,6 +6,8 @@
 
 Masp <a href="https://www.masp-solutions.it/product-page/masp-hotend-mk8-ht-rame">Hotend MK8 HT</a> Standard Flow
 
+CREDITS: Voron-Team, Ramalama, thanks guys, you make this possible.
+
 BOM:
 - 12 - M3 Threaded Insert
 - 2 - M3 x 5
