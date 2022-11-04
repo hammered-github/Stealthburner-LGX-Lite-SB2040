@@ -45,3 +45,9 @@ If you want to support my projects
 Masp <a href="https://www.masp-solutions.it/product-page/masp-hotend-mk8-ht-rame">Hotend MK8 HT</a> Standard Flow
 
 Credits for PCB: Voron-Team, Ramalama, thanks guys, you make this possible.
+
+---
+
+<p align="center">
+  <img src="/Image/Sthelt_LGX_2040.jpg">
+</p>
