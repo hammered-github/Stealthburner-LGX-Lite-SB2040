@@ -11,34 +11,12 @@ Il PCB installato sul retro della ventola superiore deve essere  appositamente p
 Grande attenzione é stata dedicata all'estetica per mantenerla il più originale possibile.
 Progetto realizzato in collaborazione con Masp e MS (Mario).
 
-Se vuoi supportare i miei progetti
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="WEP7ZAT7WRN88" />
-<input type="hidden" name="no_recurring" value="0" />
-<input type="hidden" name="currency_code" value="EUR" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
 ---
 
 In this project, the central body of the CW has been removed in order to insert the LGX-Lite extruder and the SB4020 toolboard.
 The PCB installed on the back of the upper fan must be specially manufactured (see PCB folder); it is not possible to use the original board because it is too large and would compromise the whole aesthetics of the stealthburner.
 Great attention was dedicated to the design in order to keep it as original as possible.
 Project realised in collaboration with Masp and MS (Mario).
-
-If you want to support my projects
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="WEP7ZAT7WRN88" />
-<input type="hidden" name="no_recurring" value="0" />
-<input type="hidden" name="currency_code" value="EUR" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
-</form>
 
 ---
 
@@ -51,3 +29,10 @@ Credits for PCB: Voron-Team, Ramalama, thanks guys, you make this possible.
 <p align="center">
   <img src="/Image/Sthelt_LGX_2040.jpg">
 </p>
+
+---
+
+Se vuoi supportare i miei progetti - If you want to support my projects
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
+<p align="center"><sub><em>• non si assume nessuna responsabilità • assumes no responsibility •</em></sub></p>
